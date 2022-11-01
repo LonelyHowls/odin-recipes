@@ -1,5 +1,6 @@
 * {
     background-color: rgb(120, 70, 143);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 hr {
@@ -8,4 +9,10 @@ hr {
 
 a:visited {
     color: rgb(204, 164, 20)
+}
+
+.steps {
+    color: rgb(92, 237, 165);
+    background-color: black;
+    display: inline;
 }
