@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(120, 70, 143);
+}
+
+hr {
+    border: black dotted;
+}
+
+a:visited {
+    color: rgb(204, 164, 20)
+}
