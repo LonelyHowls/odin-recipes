@@ -6,7 +6,7 @@
 hr {
     border: black dotted;
 }
-a {
+a:link{
     color: aquamarine;
 }
 a:visited {
