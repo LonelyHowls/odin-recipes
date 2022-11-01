@@ -6,7 +6,9 @@
 hr {
     border: black dotted;
 }
-
+a {
+    color: aquamarine;
+}
 a:visited {
     color: rgb(204, 164, 20)
 }
